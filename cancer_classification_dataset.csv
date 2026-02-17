@@ -100,4 +100,6 @@ PatientID,Age,TumorSize,Texture,Density,ClumpThickness,Malignancy
 99,61,9.43,Rough,0.97,3,Malignant
 100,47,8.77,Rough,1.18,4,Benign
 420,47,8.77,Rough,1.18,4,Malignant
-786,46,8.7,Rough,3.18,7,Malignant
+786,46,8.7,Rough,3.18,7,Benign
+
+
